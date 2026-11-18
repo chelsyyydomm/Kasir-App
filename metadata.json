@@ -1,0 +1,6 @@
+{
+  "name": "KulinaHub — Manajemen Franchise & Kuliner",
+  "description": "Sistem manajemen bisnis kuliner, POS multi-outlet, pembayaran, stok bahan baku, resep HPP, laporan keuangan, mitra franchise, dan asisten AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
